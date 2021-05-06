@@ -1,4 +1,4 @@
-# XtreamRadius
+# Xtream Radius
 
 Aki Akbar Khan
 
